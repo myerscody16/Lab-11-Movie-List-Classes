@@ -1,0 +1,11 @@
+C:\Users\Cody's PC\source\repos\Lab11 Movie List\Lab11 Movie List\bin\Debug\netcoreapp2.1\Lab11 Movie List.deps.json
+C:\Users\Cody's PC\source\repos\Lab11 Movie List\Lab11 Movie List\bin\Debug\netcoreapp2.1\Lab11 Movie List.runtimeconfig.json
+C:\Users\Cody's PC\source\repos\Lab11 Movie List\Lab11 Movie List\bin\Debug\netcoreapp2.1\Lab11 Movie List.runtimeconfig.dev.json
+C:\Users\Cody's PC\source\repos\Lab11 Movie List\Lab11 Movie List\bin\Debug\netcoreapp2.1\Lab11 Movie List.dll
+C:\Users\Cody's PC\source\repos\Lab11 Movie List\Lab11 Movie List\bin\Debug\netcoreapp2.1\Lab11 Movie List.pdb
+C:\Users\Cody's PC\source\repos\Lab11 Movie List\Lab11 Movie List\obj\Debug\netcoreapp2.1\Lab11 Movie List.csprojAssemblyReference.cache
+C:\Users\Cody's PC\source\repos\Lab11 Movie List\Lab11 Movie List\obj\Debug\netcoreapp2.1\Lab11 Movie List.csproj.CoreCompileInputs.cache
+C:\Users\Cody's PC\source\repos\Lab11 Movie List\Lab11 Movie List\obj\Debug\netcoreapp2.1\Lab11 Movie List.AssemblyInfoInputs.cache
+C:\Users\Cody's PC\source\repos\Lab11 Movie List\Lab11 Movie List\obj\Debug\netcoreapp2.1\Lab11 Movie List.AssemblyInfo.cs
+C:\Users\Cody's PC\source\repos\Lab11 Movie List\Lab11 Movie List\obj\Debug\netcoreapp2.1\Lab11 Movie List.dll
+C:\Users\Cody's PC\source\repos\Lab11 Movie List\Lab11 Movie List\obj\Debug\netcoreapp2.1\Lab11 Movie List.pdb
